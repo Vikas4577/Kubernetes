@@ -11,7 +11,7 @@ metadata:
 spec:
   containers:
     - name: nodeapp
-      image: kammana/nodeapp:v1
+      image: vikas4577/nodeapp:v1
       ports:
         - containerPort: 8089
   nodeSelector:
