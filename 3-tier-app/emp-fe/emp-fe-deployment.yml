@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: emp-fe
-        image: kammana/emp-fe:1.0
+        image: vikas4577/emp-fe:1.0
         ports:
         - containerPort: 4200
