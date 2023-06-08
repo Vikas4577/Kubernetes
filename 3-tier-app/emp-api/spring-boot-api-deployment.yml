@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: emp-api
-        image: kammana/boot-api:5.0
+        image: vikas4577/boot-api:5.0
         ports:
         - containerPort: 8080
